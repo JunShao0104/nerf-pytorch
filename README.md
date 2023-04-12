@@ -1,5 +1,9 @@
 # NeRF-pytorch
 
+## Fork Fork specific changes
+Adapt nerf-pytorch to training NeRF model on Ommo dataset.
+For [Ommo](https://ommo.luchongshan.com/) dataset, please read their original paper: https://arxiv.org/pdf/2301.06782.pdf
+
 ## Fork specific changes
 We make a few small changes to the original repo to train our NeRF with metric scale. To run, setup using the original repo instructions then use:
 ```
